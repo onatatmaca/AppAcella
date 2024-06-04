@@ -47,4 +47,4 @@ fun GreetingPreview() {
     }
 }
 
-ben ananı siktim oç
+ben ananı siktim oç YARRRAAAA
