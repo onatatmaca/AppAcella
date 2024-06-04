@@ -46,4 +46,4 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-ananı sikenzi 31esfd
+ananı sikenzi 31esfddfg
