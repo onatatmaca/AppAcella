@@ -47,4 +47,4 @@ fun GreetingPreview() {
     }
 }
 
-123
+canberk anneni sikiyorum
