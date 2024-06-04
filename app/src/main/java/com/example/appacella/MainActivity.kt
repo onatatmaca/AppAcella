@@ -43,6 +43,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun GreetingPreview() {
     AppacellaTheme {
         Greeting("Android")
+        Greeting("Android")
     }
 }
-printf"31";
+ananı sikenzi 31
