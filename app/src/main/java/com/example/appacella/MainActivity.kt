@@ -46,5 +46,3 @@ fun GreetingPreview() {
         Greeting("Android")
     }
 }
-
-ben ananı siktim oç YARRRAAAA
